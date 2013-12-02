@@ -2,9 +2,6 @@ To run the programs open the "index.html" file.
 
 
 
-##### Notes
-This app was coded with the notion that I would be the only person working on it.
-
 ### JS 
 JQuery is leveraged for its selectors and event handling. 
 The codes primary intent is to be readable, modular, and robust.
