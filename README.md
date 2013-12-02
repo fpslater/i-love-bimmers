@@ -1,4 +1,4 @@
-To run the programs open 
+To run the programs open the "index.html" file. 
 
 
 
