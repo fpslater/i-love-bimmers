@@ -1,0 +1,45 @@
+
+body > div {
+  width: 290px;
+  margin: 10px;
+  padding: 5px;
+}
+
+textarea {
+  padding: 0px;
+  resize: none;
+}
+
+form {
+  margin: 0px;
+}
+
+.output {
+  margin: 0px 2px;
+}
+
+.key-counter {
+  background-color: red;
+}
+
+.key-counter textarea {
+  padding: 5px;
+}
+
+.palindrome-detector {
+  background-color: gold;
+}
+
+.key-counter textarea, .palindrome-detector input[type=text] {
+  width: 200px;
+  margin-left: 2px;
+}
+
+.key-counter button, .palindrome-detector input[type=submit] {
+  float: right;
+  cursor: pointer;
+  border-radius: 1px;
+}
+
+
+
